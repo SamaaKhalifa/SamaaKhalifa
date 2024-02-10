@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samaa khalifa</h1>
-<h3 align="center">CS student at CU faculty of computer science and artificial intelligence.</h3>
+<h3 align="center">CS graduate from CU faculty of computer science and artificial intelligence. & ITI Trainee</h3>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Fullstack .Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
